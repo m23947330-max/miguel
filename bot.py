@@ -27,16 +27,16 @@ PORT = int(os.environ.get("PORT", 8443))
 
 # Bir martalik parollar (kod ichida)
 ONE_TIME_PASSWORDS = {
-    'parol123': True,
-    'parol456': True,
-    'parol789': True,
-    'parol012': True,
-    'parol345': True,
-    'parol678': True,
-    'parol901': True,
-    'parol234': True,
-    'parol567': True,
-    'parol890': True,
+    'oxmygod': True,
+    'megaladon': True,
+    'ybanmikana': True,
+    'oyboqmiya': True,
+    'masayonmikan': True,
+    'killone': True,
+    'ajriq': True,
+    'webgandon567': True,
+    'itbet67': True,
+    'eshakmiya123': True,
 }
 
 # Conversation state
@@ -113,4 +113,5 @@ def main():
     )
 
 if __name__ == "__main__":
+
     main()
